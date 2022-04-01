@@ -1,0 +1,19 @@
+.menu {
+  background-color: #ffe9f2;
+}
+
+.menu-title {
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 5px;
+  padding: 10px;
+  border-bottom: solid 2px #ff5d5d;
+  background-color: #fdbcbc;
+}
+
+.menu-list {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

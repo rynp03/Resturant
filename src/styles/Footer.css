@@ -1,0 +1,21 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  border-top: solid 2px #a13333;
+  background-color: #1e000f;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+}
+
+.copyright-content {
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+}

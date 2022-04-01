@@ -1,0 +1,22 @@
+.about-banner {
+  height: 250px;
+  max-height: 500px;
+  background-position: bottom;
+  background-size: cover;
+}
+
+.about-us {
+  padding: 40px;
+  background-color: #ffe9f2;
+  max-height: 1200px;
+  overflow: scroll;
+}
+
+.about-title {
+  background-color: #fdbcbc;
+  letter-spacing: 5px;
+  text-align: center;
+  font-size: 50px;
+  padding: 10px;
+  border-bottom: solid 2px #ff5d5d;
+}
