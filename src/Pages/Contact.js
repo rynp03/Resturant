@@ -3,7 +3,6 @@ import contactBanner from "../assets/contactbanner.jpg";
 import "../styles/Contact.css";
 
 const Contact = () => {
-  const contactStyles = {};
 
   return (
     <div className="contact">
