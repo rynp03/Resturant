@@ -1,5 +1,6 @@
 .contact {
   display: flex;
+  min-height: 700px;
 }
 
 .form-image {
